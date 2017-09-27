@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/src/main/java/PoiDemo1.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/PoiDemo2.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/PoiDemo3.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/PoiDemo4.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/PoiDemo5.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/input/PoiDemo4.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/input/PoiDemo5.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/output/PoiDemo1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/output/PoiDemo2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/output/PoiDemo3.java" charset="GBK" />
   </component>
 </project>
