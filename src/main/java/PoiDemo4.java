@@ -40,7 +40,6 @@ public class PoiDemo4 {
     //通过获取到的单元格里的字符类型，做出相应的操作处理
     private static String getValue(HSSFCell hssfCell){
         int cellType = hssfCell.getCellType();
-        System.out.println("lalala---------------------------------->"+cellType);
         if (cellType == HSSFCell.CELL_TYPE_BOOLEAN){
             return String.valueOf(hssfCell.getBooleanCellValue());
         }else if (cellType == HSSFCell.CELL_TYPE_NUMERIC){
