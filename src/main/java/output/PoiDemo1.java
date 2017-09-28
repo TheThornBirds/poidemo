@@ -28,5 +28,5 @@ public class PoiDemo1 {
         FileOutputStream fos = new FileOutputStream("D:\\poiDemo1.xls");
         book.write(fos);
         fos.close();
-}
+    }
 }

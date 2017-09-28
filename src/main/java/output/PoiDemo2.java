@@ -33,7 +33,6 @@ public class PoiDemo2 {
         FileOutputStream fos = new FileOutputStream("D://haha.xls");
         book.write(fos);
         fos.close();
-
     }
 
 }
