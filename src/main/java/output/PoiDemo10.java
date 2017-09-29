@@ -31,7 +31,7 @@ public class PoiDemo10 {
         cell.setCellValue("单元格测试");
 
     FileOutputStream fos = new FileOutputStream("d:\\非费用付款申请报表导出2.xls");
-        wb.write(fos);
-        fos.close();
+    wb.write(fos);
+    fos.close();
     }
 }
